@@ -1,7 +1,22 @@
 ### Hi there 👋
-- 🔭 I’m currently a student!
-- 🌱 I’m currently learning C# and PHP
-- Barb was here
+I’m a soon to be graduate full-stack developer
+
+I have experience with the following:
+##### Languages
+- C#
+- JavaScript
+- Python
+- PHP
+- Java
+- SQL, PL-SQL & T/SQL
+
+##### Libraries and Frameworks
+- D3.js, MatplotLib, Plotly
+- React, Vite, Node.js
+- ASP.NET
+- jQuery
+- Blazor
+
 <!--
 **juliaforbes/juliaforbes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
